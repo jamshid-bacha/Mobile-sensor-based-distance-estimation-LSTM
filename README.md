@@ -11,7 +11,9 @@ The COVID-19 pandemic is an active epidemic disease and is evolving into various
 
 # Architecture Diagram
 
-<img src="https://github.com/user-attachments/assets/a9aa3122-1493-41fd-95f7-953eea5eacda" alt="MobileSensorPlatform" style="width: 650px;"/>
+<img src="https://github.com/user-attachments/assets/1afcc426-ddef-4d6e-8faf-7dff235b7f7c" alt="MobileSensorPlatform" style="width: 650px;"/>
+
+
 
 # RSSI Distribution for 1, 2, and 3 Indoor sitting
 
