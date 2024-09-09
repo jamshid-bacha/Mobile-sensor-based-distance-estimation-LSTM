@@ -11,17 +11,17 @@ The COVID-19 pandemic is an active epidemic disease and is evolving into various
 
 # Architecture Diagram
 
-<img src="https://github.com/user-attachments/assets/a9aa3122-1493-41fd-95f7-953eea5eacda" alt="MobileSensorPlatform" style="width: 500px;"/>
+<img src="https://github.com/user-attachments/assets/a9aa3122-1493-41fd-95f7-953eea5eacda" alt="MobileSensorPlatform" style="width: 650px;"/>
 
 # RSSI Distribution for 1, 2, and 3 Indoor sitting
 
-<img src="https://github.com/user-attachments/assets/286dae62-3e6f-443b-8c8c-4efad12d40a1" alt="RSSIDistribution" style="width: 500px;"/>
+<img src="https://github.com/user-attachments/assets/286dae62-3e6f-443b-8c8c-4efad12d40a1" alt="RSSIDistribution" style="width: 650px;"/>
 
 We have done different experiments and can be found all of them in the research paper.
 
 # Confusion Matrix (Decision Tree Regression)
 
-<img src="https://github.com/user-attachments/assets/99b6b380-6148-47bc-96a4-bf1eaadc0258" alt="Results" style="width: 500px;"/>
+<img src="https://github.com/user-attachments/assets/99b6b380-6148-47bc-96a4-bf1eaadc0258" alt="Results" style="width: 650px;"/>
 
 
 The results for all the user distance classifications for other models can be found in the research paper
