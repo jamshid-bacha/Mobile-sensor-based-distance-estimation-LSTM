@@ -25,7 +25,13 @@ We have done different experiments and can be found all of them in the research 
 <img width="621" alt="Results" src="https://github.com/user-attachments/assets/99b6b380-6148-47bc-96a4-bf1eaadc0258">
 
 The results for all the user distance classifications for other models can be found in the research paper
-https://link.springer.com/article/10.1007/s12652-023-04713-7
+
+&#8594;   https://link.springer.com/article/10.1007/s12652-023-04713-7
+
+# Mobile App in Flutter
+The mobile app with complete code for this research study can be found here
+
+&#8594;   https://github.com/jamshid-bacha/Social-BLE-Distancing-App-English-Korean-Version.git
 
 
 
